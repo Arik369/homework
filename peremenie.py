@@ -1,4 +1,5 @@
-number_of_completed_tasks = "всего задач:12"
-number_of_hours_spent = "затрачено часов:1.5"
-course_name = "Python"
-print(course_name,number_of_completed_tasks,number_of_hours_spent,'среднее выполнение ',(1.5 / 12),'часа')
+number_of_completed_tasks = 12
+number_of_hours_spent = 1.5
+course_name = "Курс:Python"
+time_per_task = (1.5 / 12)
+print(course_name,"всего задач:",number_of_completed_tasks,"затрачено часов:",number_of_hours_spent,"среднее выполнение",time_per_task,"часа")

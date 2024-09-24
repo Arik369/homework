@@ -4,4 +4,5 @@ print(immutable_var)
 #print(immutable_var)
 mutable_list = [1,2,3,'a','b']
 print(mutable_list)
-print(mutable_list[0:3])
+mutable_list.extend(['ya zaeb..... postoyanno  menyat'])
+print(mutable_list)

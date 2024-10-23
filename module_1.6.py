@@ -1,6 +1,8 @@
 my_dict = {'Artur':1983, 'Rita':2005, 'Veronika':2010}
 print(my_dict)
 print(my_dict['Artur'])
+my_dict ['Alexsei'] = 2000
+print(my_dict['Alexsei'])
 my_dict.update({'Sasha':1989,
                 'Masha':1990})
 print(my_dict)
